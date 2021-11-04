@@ -1,0 +1,7 @@
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenPlanKomodo\bin\Debug\GreenPlanKomodo.exe.config
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenPlanKomodo\bin\Debug\GreenPlanKomodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenPlanKomodo\bin\Debug\GreenPlanKomodo.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenPlanKomodo\obj\Debug\GreenPlanKomodo.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenPlanKomodo\obj\Debug\GreenPlanKomodo.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenPlanKomodo\obj\Debug\GreenPlanKomodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenPlanKomodo\obj\Debug\GreenPlanKomodo.pdb

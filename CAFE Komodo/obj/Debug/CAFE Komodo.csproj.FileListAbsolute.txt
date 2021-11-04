@@ -1,0 +1,7 @@
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CAFE Komodo\bin\Debug\CAFE Komodo.exe.config
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CAFE Komodo\bin\Debug\CAFE Komodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CAFE Komodo\bin\Debug\CAFE Komodo.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CAFE Komodo\obj\Debug\CAFE Komodo.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CAFE Komodo\obj\Debug\CAFE Komodo.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CAFE Komodo\obj\Debug\CAFE Komodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CAFE Komodo\obj\Debug\CAFE Komodo.pdb
