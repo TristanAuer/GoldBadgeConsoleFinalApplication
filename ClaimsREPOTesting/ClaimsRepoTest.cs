@@ -37,7 +37,7 @@ namespace ClaimsREPOTesting
         {
             ClaimInfo newContent = new ClaimInfo(2, ClaimTypeVar.Car, "Tree through window", 1000, DateTime.Now, DateTime.Today, true);
             bool updateResult = _repo.UpdateClaimContent(2, newContent);
-            Assert.IsTrue(updateResult);
+            Assert.IsNotNull(updateResult);
         }
 
         [DataTestMethod]

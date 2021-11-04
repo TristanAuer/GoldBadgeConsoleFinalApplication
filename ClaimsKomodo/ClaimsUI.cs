@@ -172,9 +172,8 @@ namespace ClaimsKomodo
                     break;
                 case "2":
                     Console.Clear();
-                    UpdateClaim();
-                    break;
-                /*Console.Clear();
+                    
+                Console.Clear();
 
 
                 string updateInput = Console.ReadLine();
@@ -185,6 +184,7 @@ namespace ClaimsKomodo
                 Console.WriteLine("Enter the new ClaimID:");
                 string idAsString = Console.ReadLine();
                 updateClaimContent.ClaimAmount = int.Parse(idAsString);
+
 
                 Console.WriteLine("Enter the new Claim Type:\n" +
                     "1. Car\n" +
@@ -230,7 +230,7 @@ namespace ClaimsKomodo
                     Console.Clear();
                     Menu();
                 }
-                break;*/
+                break;
                 case "3":
                     //next claim in queue
                     Console.Clear();

@@ -1,0 +1,17 @@
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\ClaimsREPOTesting.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\ClaimsREPOTesting.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\ClaimsKomodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\ClaimsKomodo.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\ClaimsKomodo.exe.config
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\obj\Debug\ClaimsUnitTesting.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\obj\Debug\ClaimsUnitTesting.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\obj\Debug\ClaimsUnitTesting.csproj.CopyComplete
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\obj\Debug\ClaimsREPOTesting.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\ClaimsREPOTesting\obj\Debug\ClaimsREPOTesting.pdb

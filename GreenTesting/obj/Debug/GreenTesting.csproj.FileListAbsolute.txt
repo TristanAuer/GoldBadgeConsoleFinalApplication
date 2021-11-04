@@ -1,0 +1,17 @@
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\GreenTesting.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\GreenTesting.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\GreenPlanKomodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\GreenPlanKomodo.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\GreenPlanKomodo.exe.config
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\obj\Debug\GreenTesting.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\obj\Debug\GreenTesting.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\obj\Debug\GreenTesting.csproj.CopyComplete
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\obj\Debug\GreenTesting.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\GreenTesting\obj\Debug\GreenTesting.pdb

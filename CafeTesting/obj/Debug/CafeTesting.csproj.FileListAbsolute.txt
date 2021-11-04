@@ -1,0 +1,17 @@
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\obj\Debug\CafeTesting.csproj.AssemblyReference.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\obj\Debug\CafeTesting.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\CafeTesting.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\CafeTesting.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\CAFE Komodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\CAFE Komodo.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\CAFE Komodo.exe.config
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\obj\Debug\CafeTesting.csproj.CopyComplete
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\obj\Debug\CafeTesting.dll
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\CafeTesting\obj\Debug\CafeTesting.pdb
