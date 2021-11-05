@@ -46,7 +46,11 @@ namespace CafeTesting
         [TestMethod]
         public void getMenuByID()
         {
+            MenuREPO content = new MenuREPO();
+            content. = 1;
+            _Repo.AddMenuItem(content);
 
+            
         }
        //public void getMenusit
     }

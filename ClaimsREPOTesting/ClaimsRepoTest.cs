@@ -11,10 +11,11 @@ namespace ClaimsREPOTesting
         private ClaimsREPO _repo;
         private ClaimInfo _content;
 
+       [TestInitialize]
         public void Arrange()
         {
             _repo = new ClaimsREPO();
-            _content = new ClaimInfo();
+            _content = new ClaimInfo(2, ClaimTypeVar.Car, "Tree through window", 1000, DateTime.Now, DateTime.Today, true);
 
             _repo.AddClaimInfoToList(_content);
         }
@@ -35,9 +36,11 @@ namespace ClaimsREPOTesting
         [TestMethod]
         public void UpdateClaim_ShouldReturnTrue()
         {
-            ClaimInfo newContent = new ClaimInfo(2, ClaimTypeVar.Car, "Tree through window", 1000, DateTime.Now, DateTime.Today, true);
+            ClaimInfo newContent = new ClaimInfo(3, ClaimTypeVar.Car, "Tree through window", 1000, DateTime.Now, DateTime.Today, true);
+            
             bool updateResult = _repo.UpdateClaimContent(2, newContent);
-            Assert.IsNotNull(updateResult);
+            
+            Assert.IsTrue(updateResult);
         }
 
         [DataTestMethod]
