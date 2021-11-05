@@ -42,16 +42,6 @@ namespace CafeTesting
             //assert compare returned method to exspected result should have been.
             Assert.IsNull(contentFromRepo); 
         }
-        //read
-        [TestMethod]
-        public void getMenuByID()
-        {
-            MenuREPO content = new MenuREPO();
-            content. = 1;
-            _Repo.AddMenuItem(content);
-
-            
-        }
-       //public void getMenusit
+        
     }
 }

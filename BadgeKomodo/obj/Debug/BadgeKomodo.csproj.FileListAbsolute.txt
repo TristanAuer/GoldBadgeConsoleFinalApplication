@@ -1,0 +1,6 @@
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\BadgeKomodo\obj\Debug\BadgeKomodo.csproj.CoreCompileInputs.cache
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\BadgeKomodo\bin\Debug\BadgeKomodo.exe.config
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\BadgeKomodo\bin\Debug\BadgeKomodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\BadgeKomodo\bin\Debug\BadgeKomodo.pdb
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\BadgeKomodo\obj\Debug\BadgeKomodo.exe
+C:\Users\Tristan\source\repos\GoldBadgeConsoleApp\BadgeKomodo\obj\Debug\BadgeKomodo.pdb

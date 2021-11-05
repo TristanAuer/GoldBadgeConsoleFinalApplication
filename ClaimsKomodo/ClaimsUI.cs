@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -120,8 +121,9 @@ namespace ClaimsKomodo
 
             //Console.WriteLine(viewLastClaimContent.Last());
 
-            Queue<ClaimInfo> viewClaimInfo = _infoRepo.NextClaimInQueue();
-            var queue = new Queue<ClaimInfo>(viewClaimInfo);
+            //Queue<ClaimInfo> viewClaimInfo = _infoRepo.NextClaimInQueue();
+            Queue<ClaimInfo> viewClaimContent = _infoRepo.NextClaimInQueue();
+            var queue = new Queue<ClaimInfo>(viewClaimContent);
 
             //figure out how to format correctly and get the last item
 
